@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class beecrowd_1002 {
+public class Beecrowd_1002 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double R, A;
